@@ -1,2 +1,2 @@
 # kaggle-happywhale-competition
-My solution to the Kaggle Happywhale competition 2022
+My initial approach to the Kaggle Happywhale competition 2022
